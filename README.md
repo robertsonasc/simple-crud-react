@@ -1,4 +1,4 @@
-# Simple CRUD application (React + Firebase)
+# Simple CRUD Application (React + Firebase)
 
 This is a CRUD application that was made by me in the Web Development discipline, during my graduation in Software Engineering (Federal University of Ceará).
 
@@ -11,7 +11,7 @@ The `fron-tend` is made with React.js. And the `back-end` with Firebase (Firesto
 `git clone https://github.com/robertsonasc/simple-crud-react.git`
 
 **Step 2 - Infact running the Application:** In the folder application (crud-professors-students) run: 
-
+'npm install'
 `npm start`
 
 **Step 3 - Using the CRUD:** Enter in http://localhost:3000/ and be happy :smiley:
