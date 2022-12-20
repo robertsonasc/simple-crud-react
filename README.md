@@ -10,8 +10,8 @@ The `fron-tend` is made with React.js. And the `back-end` with Firebase (Firesto
 
 `git clone https://github.com/robertsonasc/simple-crud-react.git`
 
-**Step 2 - Infact running the Application:** In the folder application (crud-professors-students) run: 
-'npm install'
+**Step 2 - Infact running the Application:** In the folder application (crud-professors-students) run: <br>
+`npm install`<br>
 `npm start`
 
 **Step 3 - Using the CRUD:** Enter in http://localhost:3000/ and be happy :smiley:
